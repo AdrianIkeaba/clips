@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459617736470",
+    "project_id": "clips-b0ecd",
+    "storage_bucket": "clips-b0ecd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459617736470:android:1e51f7de08ba63631b2237",
+        "android_client_info": {
+          "package_name": "com.ghostdev.video.clips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54mmsHI6gHit_svAEuHmHVuwYWz7-8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
